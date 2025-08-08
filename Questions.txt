@@ -1,0 +1,13 @@
+BUSINESS PROBELMS QUESTIONS
+
+Q1-Different Product categories and how many they are
+Q2-how many products are in stock vs out of stock
+Q3-product names present multiple times
+Q4-Products with price = 0 
+Q5-Find the Top 10 best value products based on the Discount percentage
+Q6 what are the products with high mrp but out of stock
+Q7-calculate estimated revenue for each category
+Q8-Find all the products where mrp is greater than 500 and discount is less than 10%
+Q9-identify the top 5 categories offering the highest average discount percentage
+Q10-Find the price per gram for products above 100kg and sort by best value
+Q11-Group the products into categories like low,medium,bulk-
